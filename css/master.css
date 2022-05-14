@@ -59,3 +59,24 @@ h1 {
       100% {border-bottom-color:transparent;}
       
     }
+
+
+    .thecard{
+      display: inline-block;
+      background-color: #ffff;
+      width: 20%;
+      height: auto;
+      margin: 50px;
+      text-align: center;
+      padding: 15px;
+      border-radius: 15px;
+      color: rgb(28, 30, 32);
+      box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+
+    .cardimg img{
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+    }
+
